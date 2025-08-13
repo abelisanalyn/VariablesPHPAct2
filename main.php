@@ -10,5 +10,5 @@ echo "Age: " . $Age . "<br>";
 echo "School: " . $School . "<br>";
 echo "Course: " . $Course . "<br>";
 echo "Subject: " . $Subject . "<br>";
-echo "Student: " .  Var_dump($Student) . "<br>";
+echo "Student: " .  ($Student) . "<br>";
 ?>
